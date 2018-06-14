@@ -21,4 +21,4 @@ If all seems correct, open up a issue on this git and I will try and trace down 
 NOTE:  This app is for controlling dragonmint miners only (ie. T1, B29, B52, D9, T2 ).  It may/will
 display info for antminers, but will NOT control them.
 
-https://github.com/pav-hash/DragonStatsDesktop/blob/master/DragonStatsDesktop.jpg
+[[https://github.com/pav-hash/DragonStatsDesktop/blob/master/DragonStatsDesktop.jpg]]
